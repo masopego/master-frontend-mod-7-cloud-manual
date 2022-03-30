@@ -1,7 +1,7 @@
 {
-  "name": "06-rest-api-01-concepts",
+  "name": "07-cloud-manual",
   "version": "1.0.0",
-  "description": "Rest API demos",
+  "description": "Cloud demos",
   "main": "index.js",
   "scripts": {
     "start": "run-p -l start:dev start:server",
